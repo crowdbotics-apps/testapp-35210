@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-articles](backend/modules)
 - [react-native-user-profile](modules/user-profile)
 - [react-native-articles](modules/articles)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
